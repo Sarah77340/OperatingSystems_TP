@@ -1,0 +1,9 @@
+﻿  Assignment2OperatingSystems.cpp
+  sensor.cpp
+C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\Assignment2OperatingSystems\sensor.cpp(59,53): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\Assignment2OperatingSystems\sensor.cpp(59,53): warning C4244:         with
+C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\Assignment2OperatingSystems\sensor.cpp(59,53): warning C4244:         [
+C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\Assignment2OperatingSystems\sensor.cpp(59,53): warning C4244:             _Ty=int
+C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\Assignment2OperatingSystems\sensor.cpp(59,53): warning C4244:         ]
+  Génération de code en cours...
+  Assignment2OperatingSystems.vcxproj -> C:\Users\sarah\source\repos\Assignment2.1OperatinsSystems\x64\Debug\Assignment2OperatingSystems.exe
